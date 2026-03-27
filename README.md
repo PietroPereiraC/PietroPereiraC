@@ -1,7 +1,8 @@
 - 👋 EU SOU PIETRO PEREIRA
 - 🌱 Cursando Desenvolvimento de Sistemas
 
-![Naruto](https://link-da-imagem.com/naruto.png)
+![]([https://link-da-imagem.com/naruto.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJO1NzyYQqh2_Sw-2q5lZhQBH0KHXbfSk8Tg&s))
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
